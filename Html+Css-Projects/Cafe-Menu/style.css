@@ -15,6 +15,17 @@ div{
     margin-left: auto;
     margin-right: auto;
 }*/
+.item p{
+    display: inline-block;
+}
+.flavor{
+    width: 75%;
+    text-align: left;
+}
+.price{
+    width: 25%;
+    text-align: right;
+}
 .menu{
     width: 80%;
     background-color: burlywood;
