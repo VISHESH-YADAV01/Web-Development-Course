@@ -1,0 +1,23 @@
+/* The CSS code `h1,h2,p{ text-align: center; }` is setting the text alignment to center for all
+`<h1>`, `<h2>`, and `<p>` elements on the webpage. */
+h1,h2,p{
+    text-align: center;
+}
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+
+/* The CSS code `div{ width: 80%; background-color: burlywood; margin-left: auto; margin-right: auto;
+}` is styling all `<div>` elements on the webpage. This is a type selector
+div{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}*/
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
