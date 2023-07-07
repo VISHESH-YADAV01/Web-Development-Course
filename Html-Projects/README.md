@@ -1,1 +1,0 @@
-All Practice Html Stand-alone Projects are uploaded here.
